@@ -1,5 +1,5 @@
 # Structure-Synthesis
-Python package of tools for structre synthesis based on genetic algorithm.
+Python package of tools for structure synthesis based on genetic algorithm.
 
 
 Hello world
